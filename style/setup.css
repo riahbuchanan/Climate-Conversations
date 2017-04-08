@@ -1,6 +1,8 @@
 body {
   padding-top: 40px;
   padding-bottom: 40px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400; 
 }
  
 .form-signin {
@@ -46,3 +48,6 @@ body {
   border-top-left-radius: 0;
   border-top-right-radius: 0;
 }
+
+
+
